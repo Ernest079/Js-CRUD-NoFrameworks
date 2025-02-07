@@ -1,0 +1,15 @@
+button {
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #E9C46A;
+  cursor: pointer;
+}
+
+#currentPage {
+  font-size: 1.5rem;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #E76F51 !important;
+}
